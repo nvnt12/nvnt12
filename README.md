@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Fullstack Development**
 
-- 👨‍💻 All of my projects are available at [nvnt.in](nvnt.in)
+- 👨‍💻 All of my projects are available at [nvnt.in](https://nvnt.in)
 
 <p align="left">
 </p>
