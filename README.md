@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nvnt.in](https://nvnt.in)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: [admin@nvnt.in](admin@nvnt.in)</h3>
 <p align="left">
 </p>
 
